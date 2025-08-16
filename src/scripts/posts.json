@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "66e27f09c3715beb941de3e2",
+    "userId": "6653b5e890d555b504b64970",
+    "text": "Release Date: September 10, 2024.",
+    "photo": [],
+    "video": [],
+    "videoThumb": [],
+    "videoRepost": [],
+    "type": 1,
+    "groupId": "0",
+    "likesCount": 0,
+    "views": 87,
+    "shortLink": "iID123456",
+    "status": "on",
+    "createdAt": "2024-09-12T05:41:29.129Z",
+    "commentCount": 1,
+    "repostCount": 0
+  },
+  {
+    "_id": "66dcceca04694c8eb71a1605",
+    "userId": "6653b5e890d555b504b64970",
+    "text": "Hello World.",
+    "photo": [],
+    "video": [],
+    "videoThumb": [],
+    "videoRepost": [],
+    "type": 1,
+    "groupId": "0",
+    "likesCount": 1,
+    "views": 65,
+    "shortLink": "iID123456",
+    "status": "on",
+    "createdAt": "2024-09-07T22:08:10.890Z",
+    "commentCount": 1,
+    "repostCount": 0
+  }
+]

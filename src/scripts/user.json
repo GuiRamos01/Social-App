@@ -1,0 +1,19 @@
+{
+  "_id": "6653b5e890d555b504b64970",
+  "name": "Mark",
+  "username": "mark",
+  "verified": 1,
+  "followsCount": 1,
+  "followersCount": 2,
+  "typeUser": 2,
+  "status": "on",
+  "description": "Official profile",
+  "groupCount": 0,
+  "img": "https://i.ibb.co/2Y8d2K27/user.png",
+  "language": "PT-BR",
+  "postFixed": "",
+  "tagsFeatured": [
+    "#FreeSpeak",
+    "#Hello"
+  ]
+}
