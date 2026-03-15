@@ -10,10 +10,8 @@ Uma plataforma de rede social moderna e responsiva, desenvolvida com o ecossiste
 
 Este projeto utiliza uma stack de ponta para garantir performance e escalabilidade:
 
-* **Frontend:** React (Vite) e Javascript ES6+.
-* **Gerenciamento de Estado:** Redux Toolkit e Redux Thunk.
-* **Roteamento:** React Router DOM.
-* **Estilização:** Tailwind CSS, SASS e componentes Radix UI (via Shadcn/UI).
+* **Frontend:** React (Vite), Javascript ES6+, Redux e React Router DOM.
+* **Estilização:** Tailwind CSS, SASS e Radix UI (via Shadcn/UI).
 * **Internacionalização:** i18next para suporte a múltiplos idiomas.
 * **Serviços de Terceiros:** AWS SDK (S3), Cloudinary e Socket.io-client.
 
