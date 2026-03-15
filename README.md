@@ -12,7 +12,7 @@ Este projeto utiliza uma stack de ponta para garantir performance e escalabilida
 
 * **Frontend:** React (Vite), Javascript ES6+, Redux e React Router DOM.
 * **Estilização:** Tailwind CSS, SASS e Radix UI (via Shadcn/UI).
-* * **Consumo de API:** Axios
+* **Consumo de API:** Axios
 * **Internacionalização:** i18next para suporte a múltiplos idiomas.
 * **Serviços de Terceiros:** AWS SDK (S3), Cloudinary e Socket.io-client.
 
