@@ -2,7 +2,7 @@
 
 Uma plataforma de rede social moderna e responsiva, desenvolvida com o ecossistema React, focada em compartilhamento de posts, interação entre usuários e uma experiência de interface fluida.
 
-## Site Demo: <a href="https://majestic-cajeta-4cf95e.netlify.app">https://majestic-cajeta-4cf95e.netlify.app</a>
+### Site Demo: <a href="https://majestic-cajeta-4cf95e.netlify.app">https://majestic-cajeta-4cf95e.netlify.app</a>
 
 ---
 
